@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lrk.Core", "Lrk.Core\Lrk.Core.csproj", "{1FA128F7-ED3A-470F-938D-A0EF886CE36F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lrk.Cli", "Lrk.Cli\Lrk.Cli.csproj", "{D94EE495-0343-4710-A543-4DEF10754FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lrk.WinForms", "Lrk.WinForms\Lrk.WinForms.csproj", "{6DFF69C3-4E5E-4880-BD4E-83F5AD91F774}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FA128F7-ED3A-470F-938D-A0EF886CE36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FA128F7-ED3A-470F-938D-A0EF886CE36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FA128F7-ED3A-470F-938D-A0EF886CE36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FA128F7-ED3A-470F-938D-A0EF886CE36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D94EE495-0343-4710-A543-4DEF10754FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94EE495-0343-4710-A543-4DEF10754FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94EE495-0343-4710-A543-4DEF10754FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94EE495-0343-4710-A543-4DEF10754FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DFF69C3-4E5E-4880-BD4E-83F5AD91F774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DFF69C3-4E5E-4880-BD4E-83F5AD91F774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DFF69C3-4E5E-4880-BD4E-83F5AD91F774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DFF69C3-4E5E-4880-BD4E-83F5AD91F774}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
